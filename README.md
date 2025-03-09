@@ -31,7 +31,7 @@ This repository implements **Knowledge Distillation** in PyTorch using the **MNI
 | Model | Accuracy (%) | Parameters | Size Reduction (%) |
 |-------|--------------|------------|---------------------|
 | **Teacher** | **97.69%** | **2,395,210** | - |
-| **Student** | **97.68%** | **636,010** | **73.5% smaller** |
+| **Student** | **97.68%** | **636,010** | **73.5% smaller than teacher** |
 
 * **Minimal Accuracy Drop (~0.01%)**
 * **4x Reduction in Model Size**
