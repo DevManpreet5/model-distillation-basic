@@ -41,4 +41,4 @@ This repository implements **Knowledge Distillation** in PyTorch using the **MNI
 
 ## References
 
-* Hinton et al., "Distilling the Knowledge in a Neural Network" (2015)
+* Hinton et al [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531).
