@@ -1,4 +1,6 @@
 # Knowledge Distillation with PyTorch (MNIST Classification)
+This work is inspired by the paper [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531).
+
 
 This repository implements **Knowledge Distillation** in PyTorch using the **MNIST dataset**. The goal is to train a **Student model** to achieve similar accuracy to a **Teacher model** while being significantly smaller and more efficient.
 
